@@ -1,0 +1,39 @@
+# Note 2
+---------
+### **"Virtualization"**
+
+
+Taking one system(computer) and divided into multiple virtual computers.
+#### *Two* main types of virtualization
+   * Server-side virtualization.
+  (virtualization takes place and save your information in your computer)
+   * Client-side virtualization.
+  (virtualization takes place and save your information in another computer)
+#### + Client-side virtualization
+* Manage a virtual machine.
+* Needs:
+   * Hypervisor(to run the machine)
+    * Hardware
+   * CPU
+  * RAM
+  * Storage
+#### *Two* types of Hypervisor
+Type 1: Runs on the hardware itself (VMware ESX and ESXi).
+
+
+
+Type 2: Runs on an operating system (Oracle VirtualBox).
+
+#### Benefits of Virtualization
+* Using many operating systems on one machine.
+* Test Apps before installing it.
+* Reduces the cost by using not to many hardware that must be used for a network.
+
+#### **virtualBox**
+* Supported by the second type of virtualization(client-side).
+  
+* Open Source Software.
+  
+* Runs on:
+  * Windows
+  * Linux
